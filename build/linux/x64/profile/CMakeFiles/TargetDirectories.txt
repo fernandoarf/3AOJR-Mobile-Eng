@@ -1,0 +1,14 @@
+/home/fernandofinardi/Downloads/flutter_chat/chat_autonomos/build/linux/x64/profile/CMakeFiles/install/strip.dir
+/home/fernandofinardi/Downloads/flutter_chat/chat_autonomos/build/linux/x64/profile/CMakeFiles/install/local.dir
+/home/fernandofinardi/Downloads/flutter_chat/chat_autonomos/build/linux/x64/profile/CMakeFiles/install.dir
+/home/fernandofinardi/Downloads/flutter_chat/chat_autonomos/build/linux/x64/profile/CMakeFiles/list_install_components.dir
+/home/fernandofinardi/Downloads/flutter_chat/chat_autonomos/build/linux/x64/profile/CMakeFiles/rebuild_cache.dir
+/home/fernandofinardi/Downloads/flutter_chat/chat_autonomos/build/linux/x64/profile/CMakeFiles/edit_cache.dir
+/home/fernandofinardi/Downloads/flutter_chat/chat_autonomos/build/linux/x64/profile/CMakeFiles/chat_autonomos.dir
+/home/fernandofinardi/Downloads/flutter_chat/chat_autonomos/build/linux/x64/profile/flutter/CMakeFiles/install/strip.dir
+/home/fernandofinardi/Downloads/flutter_chat/chat_autonomos/build/linux/x64/profile/flutter/CMakeFiles/install/local.dir
+/home/fernandofinardi/Downloads/flutter_chat/chat_autonomos/build/linux/x64/profile/flutter/CMakeFiles/install.dir
+/home/fernandofinardi/Downloads/flutter_chat/chat_autonomos/build/linux/x64/profile/flutter/CMakeFiles/list_install_components.dir
+/home/fernandofinardi/Downloads/flutter_chat/chat_autonomos/build/linux/x64/profile/flutter/CMakeFiles/rebuild_cache.dir
+/home/fernandofinardi/Downloads/flutter_chat/chat_autonomos/build/linux/x64/profile/flutter/CMakeFiles/edit_cache.dir
+/home/fernandofinardi/Downloads/flutter_chat/chat_autonomos/build/linux/x64/profile/flutter/CMakeFiles/flutter_assemble.dir

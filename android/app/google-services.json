@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209458394153",
+    "project_id": "fiapmbachatapp",
+    "storage_bucket": "fiapmbachatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209458394153:android:d2cde9957a7078365d5838",
+        "android_client_info": {
+          "package_name": "com.example.chat_autonomos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7wQjLvzkVfkiUwAd_1mAGrnZFUjqJd4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

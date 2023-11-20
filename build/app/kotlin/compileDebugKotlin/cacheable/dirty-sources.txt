@@ -1,0 +1,1 @@
+/home/fernandofinardi/Downloads/flutter_chat/3AOJR-Mobile-Eng/android/app/src/main/kotlin/com/example/chat_autonomos/MainActivity.kt
