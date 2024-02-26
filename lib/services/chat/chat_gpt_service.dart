@@ -29,7 +29,7 @@ class ChatGPTService with ChangeNotifier {
 
       if (response.statusCode == 200) {
         final Map<String, dynamic> responseData = json.decode(response.body);
-        return responseData['choices'][0]['message']['content'];
+        return utf8.decode(latin1.encode(responseData['choices'][0]['message']['content']),allowMalformed: true);
       } else {
         throw Exception("Error calling GPT-3.5 Turbo: ${response.statusCode}");
       }
